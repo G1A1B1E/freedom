@@ -22,19 +22,12 @@
   box-shadow: var(--shadow-4);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+h1 {
+    text-align: center;
+    color: beige;
+    font-family: cursive;
+    font-size: 20px;
+}
 
 
 body {
