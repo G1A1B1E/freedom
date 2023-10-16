@@ -1,4 +1,3 @@
-var games = [
     
     
     {
@@ -7,7 +6,7 @@ var games = [
         "image": "https://mathlover1.github.io/msgweb-assets/2048/2048.png",
         "description": "Join the numbers and get to the 2048 tile! Combine the numbers to get to the 2048 tile. You can combine two tiles by swiping in any direction. When two tiles with the same number touch, they merge into one!",
         "file": "https://mathlover1.github.io/msgweb-assets/2048/index.html"
-    },
+    }
     
     {
         "id": "among-us",
@@ -272,4 +271,3 @@ var games = [
         "description": "Moto X3M 2, a game where you have to ride your bike through the forest.",
         "file": "https://mathlover1.github.io/msgweb-assets/motox3m2/index.html"
     }
-]
