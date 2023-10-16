@@ -1,10 +1,5 @@
 var games = [
-    {
-        "id": "1",
-        "title": "1",
-        "image": "https://mathlover1.github.io/msgweb-assets/1/meta/og_image.png",
-        "description": "Divide the squares to reach 1! Starting at 2048, this game essentially reverses the rules of 2048. You start with 2048 and must combine the squares to reach 1. The game ends when you reach 1 or when you run out of moves.",
-        "file": "
+    
     
     {
         "id": "2048",
